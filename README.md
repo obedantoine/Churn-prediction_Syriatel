@@ -1,5 +1,4 @@
-# Churn-prediction_Syriatel
-ProProjjet Data Science : Prédiction du churn client pour l’opérateur SyriaTel à l’aide de modèles de Machine Learning
+
 # SyriaTel Customer Churn Prediction
 
 ## Contexte
@@ -37,11 +36,13 @@ Le projet permet de :
 - Total facturé en journée  
 - Absence de plan international  
 - Durée totale des appels en journée et soirée  
-*(Pour plus de détails, consulter le notebook du projet.)*
 
-## Utilisation
-1. Cloner le dépôt :  
-   ```bash
-   git clone <URL_DU_DEPOT>
+###  Conclusion
+Le modèle développé constitue un outil d’aide à la décision pour la **réduction du churn chez SyriaTel**.  
+En mettant en œuvre les recommandations proposées, l’entreprise peut :  
+- Diminuer le taux de résiliation.  
+- Améliorer l’expérience client.  
+- Consolider sa compétitivité sur le marché des télécommunications.
+
 
 
