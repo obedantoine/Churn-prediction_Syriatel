@@ -39,7 +39,9 @@ Le projet permet de :
 
 ###  Conclusion
 Le modèle développé constitue un outil d’aide à la décision pour la **réduction du churn chez SyriaTel**.  
-En mettant en œuvre les recommandations proposées, l’entreprise peut :  
+En mettant en œuvre les recommandations proposées, l’entreprise peut : 
+- Cibler les clients à risque,
+- Optimiser les actions marketing et de fidélisation,
 - Diminuer le taux de résiliation.  
 - Améliorer l’expérience client.  
 - Consolider sa compétitivité sur le marché des télécommunications.
